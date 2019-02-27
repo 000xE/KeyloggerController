@@ -10,3 +10,6 @@ Things to do after downloading:
 3. Change KeyloggerRemake's encrypted key to the public link of the specified encrypted directory in the Controller
    - In classGetEncryption: Change `strEncryptedFile = "ADDYOURURLHERE` to the public URL of that encrypted Json file (Must auto download!).
 4. Change settings in KeyloggerController upon runtime.
+
+## Packages used:
+- Newtonsoft.Json
