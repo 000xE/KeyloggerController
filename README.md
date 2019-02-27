@@ -16,3 +16,6 @@ Things to do after downloading:
 
 ## Packages used:
 - Newtonsoft.Json
+
+## Disclaimer:
+I don't support the use of this keylogger in a malicious intent, and therefore I hold no responsibility as to what damage it may inflict upon others.
