@@ -316,6 +316,7 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Controller";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.grpFTP.ResumeLayout(false);
             this.grpFTP.PerformLayout();
             this.grpEmail.ResumeLayout(false);
