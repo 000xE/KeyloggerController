@@ -1,0 +1,22 @@
+{
+  "FTP": {
+    "Host": "",
+    "User": "",
+    "Pass": ""
+  },
+  "Email": {
+    "Host": "smtp.gmail.com",
+    "Port": "587",
+    "Window": "",
+    "FromEmail": "",
+    "Pass": "",
+    "ToEmail": ""
+  },
+  "Check": {
+    "TakeScreenshot": false,
+    "SendEmail": false,
+    "UploadFTP": false,
+    "Start": false,
+    "Hide": false
+  }
+}
